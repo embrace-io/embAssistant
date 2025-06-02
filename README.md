@@ -9,6 +9,9 @@
 
 # Install and setup
 
+1. (Optional) Create a virtual environment (i.e. `virtualenv .venv`, `uv venv`)
+2. Source the venv and install requirments
+    a. `source .venv/bin/activate && pip install -r requirements.txt`
 
 # Framework 
 
